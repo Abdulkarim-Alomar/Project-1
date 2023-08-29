@@ -1,5 +1,5 @@
 # Project-1
-My First Project
+My First HTML and CSS Project
 I got this design from [graphberry].
 This is the link of the website (https://www.graphberry.com/).
 The name of the design is Leon - PSD Agency Template.
